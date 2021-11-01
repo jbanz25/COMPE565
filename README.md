@@ -1,2 +1,2 @@
-# COMPE565-
+# COMPE565
 Multimedia Communications Systems
